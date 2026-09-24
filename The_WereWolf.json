@@ -5,7 +5,7 @@
   "description": "My first Slay the Spire 2 mod. Ask for commission plz.",
   "version": "v0.0.0",
   "min_game_version": "0.107.0",
-  "has_pck": true,
+  "has_pck": false,
   "has_dll": true,
   "dependencies": [
     {"id": "BaseLib", "min_version": "3.3.0"}

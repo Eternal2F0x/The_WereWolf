@@ -1,0 +1,17 @@
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\The_Werewolf.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\The_Werewolf.pdb
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\0Harmony.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\GodotSharp.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\sts2.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\Sentry.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\Steamworks.NET.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\System.IO.Hashing.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\SmartFormat.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\Vortice.DXGI.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\SharpGen.Runtime.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\SmartFormat.ZString.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\Vortice.Mathematics.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\Vortice.DirectX.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\SharpGen.Runtime.COM.dll
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\sts2.xml
+C:\Users\anton\Documents\Made by me\The_Werewolf\bin\Release\net9.0\publish\The_Werewolf.deps.json

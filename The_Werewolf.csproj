@@ -8,15 +8,15 @@
 
     <ItemGroup>
         <Reference Include="sts2">
-            <HintPath>K:\SteamLibrary\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\sts2.dll</HintPath>
+            <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\sts2.dll</HintPath>
         </Reference>
 
         <Reference Include="GodotSharp">
-            <HintPath>K:\SteamLibrary\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\GodotSharp.dll</HintPath>
+            <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\GodotSharp.dll</HintPath>
         </Reference>
 
         <Reference Include="0Harmony">
-            <HintPath>K:\SteamLibrary\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\0Harmony.dll</HintPath>
+            <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\0Harmony.dll</HintPath>
         </Reference>
 
         <PackageReference Include="Alchyr.Sts2.BaseLib" Version="*" PrivateAssets="All" />

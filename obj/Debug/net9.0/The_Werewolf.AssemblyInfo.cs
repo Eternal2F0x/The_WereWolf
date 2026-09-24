@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The_Werewolf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7061575ec15ce6b975200765f33ff7da04d4ef62")]
 [assembly: System.Reflection.AssemblyProductAttribute("The_Werewolf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The_Werewolf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
